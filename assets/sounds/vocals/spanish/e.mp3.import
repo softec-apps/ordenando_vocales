@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/e.mp3-5f389c9a611f9059d2652b152071674c.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/vocals/spanish/e.mp3"
+dest_files=[ "res://.import/e.mp3-5f389c9a611f9059d2652b152071674c.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
